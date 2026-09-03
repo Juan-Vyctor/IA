@@ -1,7 +1,3 @@
-# Tratamento dos Dados
-
-> **Cada arquivo vai se referir a uma "parte" do tratamento, já que os notebooks não se conversam, tem que começar a partir do arquivo novo.**
-
 # Arquivo CSV
 
 ### The uploaded CSV contains **3,736 rows and 36 columns**.
